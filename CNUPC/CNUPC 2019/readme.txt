@@ -23,3 +23,9 @@ I. Powers that Three(Be*) 1
     
   Joonha want's to know how many numbers that make him to feel the powers.
   
+J. Powers that Three(Be*) 2
+                              ***same***
+    *Input data is positive integer that's smaller than 9,223,372,036,854,775,807.*
+    
+  Joonha want's to know how many numbers that make him to feel the powers.  
+  
